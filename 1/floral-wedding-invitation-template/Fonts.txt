@@ -1,0 +1,17 @@
+Fonts used in this design:
+
+Font: Cardo
+Author: David Perry
+Url: http://www.fontsquirrel.com/fonts/cardo
+
+Font: Great Vibes
+Author: TypeSETit
+Url: http://www.fontsquirrel.com/fonts/great-vibes
+
+Font: Glacial Indifference
+Author: Hanken Design Co.
+Url: http://www.fontsquirrel.com/fonts/glacial-indifference
+
+Font: Nimbus Roman No9 L
+Author: URW++
+Url: http://www.fontsquirrel.com/fonts/nimbus-roman-no9-l
